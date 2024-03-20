@@ -1,0 +1,35 @@
+.menufod{
+  text-align: center;
+}
+.menufod__text{
+  color: rgb(220, 120, 11);
+font-size: 16px;
+font-weight: 500;
+line-height: 24px;
+letter-spacing: 20%;
+text-align: center;
+text-transform: uppercase;
+margin-bottom: 5px;
+}
+.menufod__title{
+  color: rgb(21, 12, 1);
+font-size: 31.25px;
+font-weight: 700;
+line-height: 24px;
+margin-bottom: 5px;
+}
+.menufod__text1{
+  color: rgb(21, 12, 1);
+font-size: 16px;
+font-weight: 400;
+line-height: 24px;
+letter-spacing: 0%;
+text-align: center;
+}
+.menufod__item{
+  width: 360px;
+  height: 446px;
+  border: 1px solid black;
+  border-radius: 75px 10px 10px 10px;
+  background-color: white;
+}
